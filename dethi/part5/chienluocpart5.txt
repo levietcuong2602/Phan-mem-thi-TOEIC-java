@@ -1,0 +1,136 @@
+Ở phần Part 5 ta cần làm 40 câu điền từ thích hợp vào chỗ trống.
+ 
+Cách làm:
+Phần này muốn làm nhanh ta phải nhìn phía trước và sau chỗ trống (xác định được từ loại của chỗ trống cần điền), sau đó nhìn nhanh xuống các đáp án (tức là chỗ trống người ta cho mình các phương án gì). Nếu câu này thuộc dạng “từ loại – word form” hay điền giới từ thì ta có thể điền được luôn. Còn nếu vẫn chưa xác định được phải điền từ gì thì ta skim (liếc nhanh) câu đề bài cho một lần nữa xem có thuộc cấu trúc nào ko? ví dụ Neither …. nor, both…and, have st done …. hay là cụm giới từ…
+Nếu vẫn không thuộc dạng này thì có thể câu rơi vào một dạng phổ biến nhất là: meaning, tức là các từ trông na ná giống nhau, ta phải chọn theo nghĩa.
+ 
+Cụ thể hơn, ta có thể phân loại như sau:
+ 
+► Loại 1: Meaning, tức là các đáp án cho sẵn tương đối giống nhau về mặt nào đó, có thể là giống về tiền tố, hậu tố, hay các từ viết gần giống nhau.Vd: transfer, transmit, transport, transplant … hay hearly, hardly, handly, healthy … Loại này thì ko có cách nào khác ta phải biết hoặc đoán nghĩa các từ hoặc nhìn trong câu xem có cụm nào hay đi với nhau ko.
+Ex: This fax from Mr. Stevens was _______ at 11 a.m Eastern Standard Time.
+A. Transplanted
+B. Transferred
+C. Transported
+D. Transmitted
+Đáp án chính xác ở đây là Transmitted (send electronic signal)
+Trong đề thi có khoảng 14 đến 15 câu loại này.
+ 
+► Loại 2: Preposition – Giới từ (khoảng 4 đến 5 câu). Về việc lựa chọn giới từ để điền phụ thuộc vào phía trước và sau chỗ trống. Phần này cũng ko có cách nào khác ngoài việc học thuộc các cụm hay đi với nhau. Ví dụ eligible for, contribute to, interested in…
+ 
+► Loại 3: Word form – từ loại (trong đề có khoảng 14 đến 15 câu loại này)
+Đây là phần dễ ăn điểm. Muốn làm nhanh ta để ý các vấn đề ngữ pháp như sau:
+- Prep + N/V-ing: sau giới từ là danh từ hoặc V-ing
+- a/the + (adv + adj + N) = a/the + N phrase. Trước danh từ là tính từ, trước tính từ là trạng từ. Ở đây người ta có thể bỏ trống hoặc adv, hoặc adj để mình chọn từ loại điền vào chỗ trống.
+- To be + adv + V-ed / V-ing (giữa be và p.p/ V-ing là trạng từ). Thực ra ở đây Present Participle (hay V-ing) hoặc Past Participle (Hay còn gọi V-ed) đóng vai trò làm tính từ, trước tính từ ta cần 1 trạng tư bổ nghĩa cho tính từ đó. Trong câu V-ing là tính từ mang nghĩa chủ động: gây ra, đem lại. VD: Interesting news: tin tức đem lại sự thú vị cho mọi người. Còn V-ed mang nghĩa bị động. VD: I’m interested in: tôi (cảm thấy) thích thú về….
+Khi làm câu dạng này ta phải đặt ra câu hỏi: “ing hay ed?” tương đương với việc ở đây ta cần 1 tính từ mang nghĩa chủ động hay bị động?
+-  adv + Verb hoặc Verb + adv. Xung quanh động từ ta cần 1 trạng tư bổ nghĩa, tuy nhiên không phải lúc nào trạng từ cũng đứng sau động từ mà đôi khi trạng từ có thể đứng trước động từ.
+ 
+ 
+- Các động từ Causative:
+Loại 1: Chủ động: S + Make, Have, Let + SB + DO something.
+S + V khác Make/Have/Let + SB + TO DO something.
+Loại 2: bị động:
+S + Causative Verb + O + Past Participle
+Ex: I had my car fixed.
+ 
+- Một loại nữa cũng nằm trong nhóm điền word form đó là câu điều kiện
+Type 1: If do, will do. (điều kiện có thật ở hiện tại)
+Type 2: if did, would do (điều kiện ko có thật ở hiện tại)
+Type 3: if had done, would have done (điều kiện ko có thật ở quá khứ).
+Thường thì người ta bỏ trống chỗ điền động từ và ta phải xem câu điều kiện này ở loại mấy để điền.
+- Cấu trúc: the first, the second, the last ….. to do (chính là một dạng của Mệnh đề quan hệ rút gọn – reduced form)
+ 
+► Loại 4: Connecting Words và Adver-clause Markers (trong đề có khoảng 5 đến 6 câu)
+Coordinators: For, and, nor, but, or, yet, so. Khi làm ta cần đọc hiểu => mối quan hệ giữa 2 vế => lựa chọn từ cần điền thích hợp.
+Correlative Conjunctions: Both … and; not only…. but also; either … or, neither…nor. Loại này ko khó, chỉ cần liếc qua câu & chỗ trống, sau đó liếc qua câu trả lời là có thể điền được từ nối còn lại. Ví dụ người ta cho ‘neither…..’ và ta phải chọn ‘nor’ để hoàn thành câu.
+ 
+Adver-clause Markers:
+Before, after, since, until, once/as soon as, as/when, while. Loại này muốn làm tốt ta phải dịch hiểu mối quan hệ 2 vế => chọn từ cần điền.
+Because/since, Although/though/Even though/While/Whereas; if, unless, Whether … or…/ so that/ in order that;  so adj that + Clause
+Because of/Due to + Noun/V-ing
+Despite/In spite of + Noun/V-ing
+Loại này khi làm cần chú ý sau chỗ trống là N/V-ing hay là mệnh đề – clause để chọn từ nối thích hợp.
+ 
+► Loại 5: Điền đại từ quan hệ Relative Pronoun:(trong đề thường có 1 đến 2 câu) Who, whom, which, what, whose. Khi làm loại này cần lưu ý từ loại của chỗ trống cần điền là gì? ta cần một chủ ngữ hay tân ngữ? hay là sở hữu (whose)?
+ 
+► Loại 6: Điền Pronoun/ Reflexive/ Possessive adjectives (Đại từ, đại từ phản thân, tính từ sở hữu). (trong đề có 1 – 2 câu loại này).
+Khi làm loại này ta cần lưu ý chỗ trống là chủ ngữ hay tân ngữ? nếu là tân ngữ thì có phải chính là chủ ngữ đó ko? (đại từ phản thân) hay là tính từ sở hữu … Dạng này tuy ko khó nhưng vẫn nên cẩn thận tránh nhầm lẫn đáng tiếc.
+ 
+Chúc các bạn có kết quả thi tốt !
+
+<tiếp>
+1. Trước khi giải quyết câu hỏi
+Part 5 gồm các câu trần thuật đòi hỏi thí sinh phải đọc và tìm từ đúng để hoàn thành câu. Các từ cần điền thuộc lĩnh vực từ vựng (vocabulary), ngữ pháp (grammar) và cách dùng (usage). Trước khi tiến hành làm 40 câu câu hỏi của Part 5, bạn cần kiểm tra lại kiến thức của mình về các điểm sau đây:
+
+* Bạn đã nắm vững các điểm ngữ pháp cơ bản trong tiếng Anh chưa?
+Các điểm ngữ pháp gồm: từ loại (noun, verb, adjective, adverb…); các thì (present simple, present progressive, present perfect…); các hình thức của động từ (infinitive, gerund…); cấu trúc câu (đơn, kép, phức). Nếu chưa nắm vững ngữ pháp căn bản thì bạn phải nhanh chóng ôn lại lý thuyết và thực hành nhiều qua các nguồn sách ngữ pháp tổng quát.
+
+Ví dụ:
+Anyone who _______ to visit the museum should sign up at the desk.
+(A) want (B) wants (C) wanting (D) to want
+
+Câu hỏi này đòi hỏi bạn phải nắm vững dạng động từ đúng cần điền vào chỗ trống sau đại từ quan hệ làm chủ ngữ. Anyone luôn đi với động từ số ít nên (B) wants là đáp án phù hợp.
+
+Câu này cũng có thể diễn đạt theo cách khác mà nghĩa không thay đổi:
+Anyone ______ to visit the museum should sign up at the desk.
+(A) want (B) who want (C) wanting (D) wanted
+Trong câu này, lựa chọn chính xác là (C) wanting – kết hợp với to visit the museum tạo thành mệnh đề quan hệ rút gọn – đóng vai trò là một adjective bổ nghĩa cho anyone tạo thành chủ ngữ cho động từ chính should sign up.
+
+Nếu không có căn bản ngữ pháp thì chắc chắn bạn sẽ mất nhiều thời gian suy nghĩ và có khi lựa chọn sai đáp án.
+
+* Bạn có thể phân biệt được ý nghĩa và cách dung của các từ hay chưa?
+
+Hãy xem ví dụ sau:
+If you have any questions about the project, _____ with our customer representatives.
+(A) call (B) contact (C) speak (D) touch
+Nếu bạn có kiến thức vững vàng về nghĩa và loại động từ (nội/ngoại động từ) thì chắc chắn bạn sẽ nhanh chóng nhìn thấy từ cần chọn cho chỗ trống này: cả call, contact và touch đều là ngoại động từ, sau chúng phải là một danh từ nên không thể có giới từ theo sau mặc dù về nghĩa thì cả call và contact đều chấp nhận được.
+
+* Bạn có thấy sự khác biệt về nghĩa của câu khi cùng một dạng động từ được sử dụng hay không?
+
+Hãy xem ba câu sau:
+The woman is working at the computer.
+The woman who is working at the computer.
+The woman working at the computer.
+
+Cùng là dạng working nhưng trong câu đầu, working là động từ chính ở thì hiện tại tiếp diễn (Present Progressive), câu hai working là động từ chia trong mệnh đề phụ và câu ba working là phân từ hiện tại (Present Participle) hoàn chỉnh cho cụm từ làm chủ ngữ của câu.
+Nếu không phân biệt được sự khác biệt này thì kiến thức ngữ pháp của bạn chưa hoàn thiện, bạn cần phải học thêm về ngữ pháp.
+
+2. Trong khi giải quyết câu hỏi lúc luyện thi TOEIC part 5 – Incomplete Sentence
+
+Hãy thực hiện những lời khuyên sau đây:
+
+* Đọc kỹ cả câu và vận dụng kiến thức sẵn có để đoán loại từ (danh từ, động từ, tính từ, hình thức của từ…) cần cho vị trí chỗ trống đó.
+Anyone who ______ to visit the museum should sign up at the desk.
+(A) want (B) wants (C) wanting (D) to want
+
+* Xem các đáp án cho sẵn và chọn đáp án gần nhất với phán đoán của bạn.
+
+* Đối với các chỗ trống cần điền từ nội dung (contend word), hãy cân nhắc ý nghĩa hợp lý nhất của câu đó rồi tìm từ đúng nhất trong các đáp án cho sẵn.
+If you have any questions about the project _____ with our customer representatives.
+
+3. Sau khi giải quyết câu hỏi lúc luyện thi TOEIC part 5 – Incomplete Sentence
+
+Trong thời gian học luyện thi thì đây là bước quan trọng nhất. Sau khi làm bài, bạn phải đối chiếu với đáp án để biết được khả năng thực tế của mình, câu nào bạn chưa đúng thì phải tìm hiểu nguyên nhân để xem lại lý thuyết nhằm bổ sung kiến thức còn thiếu. Cuối cùng, bạn nên thực hiện các lời khuyên sau:
+
+* Điền đáp án đúng vào chỗ trống và đọc đi đọc lại câu đó ít nhất năm lần.
+
+Nhờ đọc lại nhiều lần, bạn sẽ quen thuộc với cấu trúc câu, ý nghĩa cũng như từ vựng và bạn có thể sử dụng từ đó cho dù nó xuất hiện ở câu hỏi khác hoặc bạn có thể tái tạo chúng chính xác khi nói hoặc viết.
+
+Ví dụ: Nếu bạn biết rõ từ cần chọn cho câu này:
+If you have any questions about the project, _____ with our customer representatives.
+(A) call (B) contact (C) speak (D) touch
+
+Thì khi gặp câu hỏi khác như:
+
+All employees must _____ politely even to unpleasant customers.
+(A) deal (B) handle (C) speak (D) call
+Bạn cũng sẽ làm đúng bời vì bạn đã biết speak là nội động từ, theo sau nó không có tân ngữ mà có thể có giới từ speak to/with sb hay speak about sth.
+
+* Cũng cần để ý tới những từ khác trong câu
+
+Cũng cùng câu đó nhưng thành phần khác trong câu cũng sẽ được đặt câu hỏi. Ví dụ:
+
+If you have ______ questions about the project, speak with our customer representatives.
+(A) some (B) any (C) every (D) ever
+
+Nhờ đã quen thuộc với cấu trúc của câu này và đã đọc đi đọc lại nhiều lần nên bạn sẽ nhanh chóng chọn được đáp án. Và nếu trong tình huống thực tế yêu cầu, bạn có thể sử dụng câu này một các hiệu quả dù trong hội thoại hay trong email.
